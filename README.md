@@ -33,3 +33,23 @@ numpy
 scikit-learn
 
 matplotlib (optional for visualization)
+
+# 📊 Results
+
+Normal Range: 22–274
+
+Anomalies: AQI values <22 or >274
+
+High Risk: AQI > 300
+
+# 📌 Next Steps
+
+Deploy as a Flask/FastAPI app.
+
+Add real-time monitoring with streaming data.
+
+Integrate with Dash/Streamlit for visualization.
+
+# 👤 Author
+
+Developed by Sule Isiaka Babatunde
